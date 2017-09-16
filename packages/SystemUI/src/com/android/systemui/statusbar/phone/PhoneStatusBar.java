@@ -4680,7 +4680,6 @@ public class PhoneStatusBar extends BaseStatusBar implements DemoMode,
         }
         mContext.unregisterReceiver(mBroadcastReceiver);
         mContext.unregisterReceiver(mDemoReceiver);
-        mContext.unregisterReceiver(mDUReceiver);
         mAssistManager.destroy();
 
         final SignalClusterView signalCluster =
