@@ -65,5 +65,9 @@
 
     <!-- QS customizer -->
     <string name="drag_or_tap_to_add_tiles">Drag or tap to add tiles</string>
+    
+    <!-- DU Logo -->
+    <string name="status_bar_logo_title">DU logo</string>
+    <string name="status_bar_logo_summary">Enable to show DU logo on the left side of the statusbar</string>
 
 </resources>
